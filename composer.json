@@ -1,6 +1,13 @@
 {
     "name": "codeexperts/querybuilder",
     "description": "Package to make sql queries",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nanderson Castro",
+            "email": "nandokstro@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "license": "MIT",
     "require-dev": {
